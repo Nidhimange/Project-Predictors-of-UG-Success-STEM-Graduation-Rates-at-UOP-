@@ -16,4 +16,4 @@ I learned to conduct detailed data analysis to understand complex educational ou
 Data Visualization, STEM Education, Predictive Analytics, University Data Analysis, Business Analytics, Reporting, Excel
 
 ## View the Project
-[View Repo](https://github.com/yourusername/yourrepositoryname)
+[MSBA 285.pdf](https://github.com/Nidhimange/Nidhi-Mange/files/15256499/MSBA.285.pdf)
